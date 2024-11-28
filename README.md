@@ -4,7 +4,7 @@
 
 ## Overview
 
-tomawari_ruby is a learning material for Ruby, written in Markdown.
+tomawari_ruby is a learning material for Ruby in [Japanese](README-ja.md), written in Markdown.
 
 ## Features
 
